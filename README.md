@@ -86,6 +86,13 @@ Add a .env file and add this code with your Alpaca credintals to make an API cal
  * ALPACA_SECRET_KEY='your-alpaca-secret-key'
 ```
 
+## Contribution Summary
+For this project I functioned as the project manager by documenting our project vision, assigning tasks and tracking progress. Additionally I had significant code contributions, including:
+- Data collection and cleaning related to crypto currencies
+- Calculating asset correlations
+- Sentiment analysis using Google search trends
+- Coded a function that pulls sentiment scores via an API, runs a sentiment analysis and plots a visualizations
+
 ## Project Team
 
 [Ben Eilers](https://github.com/bweilers) <br>
